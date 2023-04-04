@@ -5,7 +5,6 @@ const ItemDetail = () => {
   return (
 
     <>
-    <ItemCount/>
     <div>ItemDetail</div>
     </>
   )
