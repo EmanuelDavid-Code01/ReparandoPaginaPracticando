@@ -4,8 +4,7 @@ import ItemDetail from './ItemDetail'
 const ItemDetailContainer = () => {
   return (
     <>
-    <div>ItemDetailContainer</div>
-    <p>Voy a tener el detalle de mis listas</p>
+    
     </>
   )
 }
